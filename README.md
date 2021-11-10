@@ -3,7 +3,7 @@
 - 👀 I’m interested in developing and designing games
 - 🌱 I’m currently learning C# and Unity/Unity3D
 - 💞️ I’m looking for job as Unity Developer || Unity Designer
-- 📫 How to reach me -
+- 📫 How to reach me - <br>
 [E-mail](przemek.warzecha21@gmail.com) <br>
 [WWW](https://przemek21warzecha.wixsite.com/main) <br>
 [Linkedin](https://www.linkedin.com/in/przemysław-warzecha-93073a209) <br>
