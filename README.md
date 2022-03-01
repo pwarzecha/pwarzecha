@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Przemek
 
-- 👀 I’m interested in developing and designing games
-- 🌱 I’m currently learning C# and Unity/Unity3D
-- 💞️ I’m looking for job as Unity Developer || Unity Designer
+- 👀 I’m Unity Developer in GameFormatic S.A.
+- 🌱 I’m currently learning C# and Unity
+- 💞️ I’m working at games in VR
 - 📫 How to reach me - <br>
 [E-mail](przemek.warzecha21@gmail.com) <br>
 [WWW](https://przemek21warzecha.wixsite.com/main) <br>
