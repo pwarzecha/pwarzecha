@@ -2,7 +2,7 @@
 
 - 👀 I’m Unity Developer in GameFormatic S.A.
 - 🌱 I’m currently learning C# and Unity [LearningProgress](https://learn.unity.com/u/pwarzecha)
-- 💞️ I’m working at games in VR 
+- 💞️ I’m working at games in Unity 
 - Add the game to your wishlist: [TimbermanVR](https://store.steampowered.com/app/1887260/Timberman_VR/) 
 - 📫 How to reach me - <br>
 [E-mail](przemek.warzecha21@gmail.com) <br>
