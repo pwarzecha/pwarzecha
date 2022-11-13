@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Przemek
 
 - 👀 I’m Unity Developer in GameFormatic S.A.
-- 🌱 I’m currently learning C# and Unity [LearningProgress](https://learn.unity.com/u/pwarzecha)
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m working at games in Unity 
-- Add the game to your wishlist: [TimbermanVR](https://store.steampowered.com/app/1887260/Timberman_VR/) 
-- 📫 How to reach me - <br>
+- [TimbermanVR](https://store.steampowered.com/app/1887260/Timberman_VR/) 
+
 [E-mail](przemek.warzecha21@gmail.com) <br>
-[WWW](https://przemek21warzecha.wixsite.com/main) <br>
 [Linkedin](https://www.linkedin.com/in/przemysław-warzecha-93073a209) <br>
 <!---
 pwarzecha/pwarzecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
