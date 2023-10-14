@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Przemek
 
 - 👀 I’m Unity Developer in GameFormatic S.A.
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m working at games in Unity 
+
+Projects in which I participated
 - [TimbermanVR](https://store.steampowered.com/app/1887260/Timberman_VR/) 
 - [Offroad Mechanic Simulator](https://store.steampowered.com/app/1387500/Offroad_Mechanic_Simulator/) 
-
+- [Train Yard Builder](https://store.steampowered.com/app/1674900/Train_Yard_Builder/) 
 [E-mail](przemek.warzecha21@gmail.com) <br>
 [Linkedin](https://www.linkedin.com/in/przemysław-warzecha-93073a209) <br>
 <!---
