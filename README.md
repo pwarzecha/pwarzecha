@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Przemek
 
-- 👀 I’m Unity Developer in GameFormatic S.A.
+- 👀 I’m Unity Developer in GameFormatic S.A. <br>
+future game of the year creator tftf<br>
 
 Projects in which I participated
 - [TimbermanVR](https://store.steampowered.com/app/1887260/Timberman_VR/) 
