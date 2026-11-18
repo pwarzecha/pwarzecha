@@ -15,7 +15,6 @@ Unity & C# developer with 5 years of commercial experience. I build mobile games
 
 - 🎮 **7 shipped titles**, 15M+ downloads on Google Play
 - ❄️ Core developer on **Frost World** - core systems, gameplay, combat, UI, save system, SDKs, optimization
-- 🧱 Architecture: MVVM, DI (Zenject, VContainer), UniTask, Addressables
 - 🤖 AI-assisted workflows: Claude Code Skills, MCP for Unity
 
 ### Shipped games
@@ -35,8 +34,6 @@ Unity & C# developer with 5 years of commercial experience. I build mobile games
     <td align="center" colspan="4"><a href="https://store.steampowered.com/app/1887260/Timberman_VR/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1887260/header.jpg" width="230" alt="Timberman VR"><br><sub><b>Timberman VR</b></sub></a></td>
   </tr>
 </table>
-
-<p align="center"><a href="https://pwarzecha.github.io"><b>→ Details, screenshots and my role on each project: pwarzecha.github.io</b></a></p>
 
 ### Game jams
 
